@@ -1,6 +1,5 @@
 # EX - 4 Auditing Cloud Activity Using AWS CloudTrail
 # reg no : 212222103001
-
 ## Aim
 
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
